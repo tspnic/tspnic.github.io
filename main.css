@@ -1,0 +1,33 @@
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin: 50px auto;
+    width: 980px;
+}
+
+h1,
+.header-learn {
+    text-align: center;
+}
+
+.header-learn {
+    border-bottom: 1px solid #000;
+    margin-bottom: 70px;
+    padding-bottom: 40px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+ul li {
+    font-size: 20px;
+    list-style: none;
+}
+
+section p {
+    font-size: 20px;
+    margin-left: 40px;
+}
